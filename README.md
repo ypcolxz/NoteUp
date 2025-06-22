@@ -1,2 +1,45 @@
-# NoteUp
-NoteUp, a free alternative to Notepad.
+# NoteUp 📝
+**NoteUp:** Your free, no fluff alternative to Notepad.
+
+## Guide 💡 
+
+| Icon | Description                                   |
+| :--: | :-------------------------------------------- |
+| ➡️    | **Coming Soon:** Will come in upcoming versions of NoteUp.       |
+| ❌    | **Not Planned:** This feature is currently not planned for official releases.          |
+
+
+### Features 🪶
+
+- **Lightweight**: Uses barely any ram, while 0% of the CPU with a few tabs, check Task Manager screenshot in the [showcase!](#showcase).
+
+- **Completely Free & AI-Free:** No hidden costs, no pay-to-win features, and absolutely no AI messing with your notes. Just a pure, focused text editor.
+
+
+### Customizability Options 🎨
+
+We know you like things your way, so NoteUp lets you switch it up:
+
+
+- **Mica**: Has Mica support! (Windows 11 only) (➡️)
+
+- **UI Customization:** Personalize your interface by adding or removing elements through the ***Settings*** menu.
+
+- **Mini Mode:** When closed, NoteUp moves to your system tray. Click the tray icon to access a compact, expandable mini-version of the app. (➡️)
+
+- **Advanced Theming:** Personalize NoteUp with custom colors, background images, and even fonts! Get ready to make it truly yours. (➡️)
+
+#### (More customization options coming soon!)
+
+
+## Showcase 🎩
+
+![Full NoteUp interface](showcase-assets/noteup_demo.gif)
+
+
+
+
+_**Disclaimer:** All features and plans outlined above are subject to change based on development and user feedback._
+
+
+
