@@ -21,6 +21,8 @@
 We know you like things your way, so NoteUp lets you switch it up:
 
 
+- **Tab Editing**: You can rename and add emojis to your tab! ( Will not apply to file names )
+
 - **Mica**: Has Mica support! (Windows 11 only) (➡️)
 
 - **UI Customization:** Personalize your interface by adding or removing elements through the ***Settings*** menu.
