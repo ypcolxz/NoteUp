@@ -7,6 +7,7 @@
 | :--: | :-------------------------------------------- |
 | ➡️    | **Coming Soon:** Will come in upcoming versions of NoteUp.       |
 | ❌    | **Not Planned:** This feature is currently not planned for official releases.          |
+| ✅    | **Not Planned:** Is being added to the next release of NoteUp         |
 
 
 ### Features 🪶
@@ -27,7 +28,7 @@ We know you like things your way, so NoteUp lets you switch it up:
 
 - **UI Customization:** Personalize your interface by adding or removing elements through the ***Settings*** menu.
 
-- **Advanced Theming:** Personalize NoteUp with custom colors, background images, and even fonts! Get ready to make it truly yours. (➡️)
+- **Advanced Theming:** Personalize NoteUp with custom colors, background images, and even fonts! Get ready to make it truly yours. (✅)
 
 #### (More customization options coming soon!)
 
