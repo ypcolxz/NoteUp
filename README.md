@@ -7,7 +7,7 @@
 | :--: | :-------------------------------------------- |
 | ➡️    | **Coming Soon:** Will come in upcoming versions of NoteUp.       |
 | ❌    | **Not Planned:** This feature is currently not planned for official releases.          |
-| ✅    | **Not Planned:** Is being added to the next release of NoteUp         |
+| ✅    | **Planned:** Is being added to the next release of NoteUp         |
 
 
 ### Features 🪶
