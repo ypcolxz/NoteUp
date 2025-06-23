@@ -25,8 +25,6 @@ We know you like things your way, so NoteUp lets you switch it up:
 
 - **UI Customization:** Personalize your interface by adding or removing elements through the ***Settings*** menu.
 
-- **Mini Mode:** When closed, NoteUp moves to your system tray. Click the tray icon to access a compact, expandable mini-version of the app. (➡️)
-
 - **Advanced Theming:** Personalize NoteUp with custom colors, background images, and even fonts! Get ready to make it truly yours. (➡️)
 
 #### (More customization options coming soon!)
