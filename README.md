@@ -26,6 +26,8 @@ We know you like things your way, so NoteUp lets you switch it up:
 
 - **Mica**: Has Mica support! (Windows 11 only) (➡️)
 
+- **Mini Notes**: Take notes in a hot minute! (➡️)
+
 - **UI Customization:** Personalize your interface by adding or removing elements through the ***Settings*** menu.
 
 - **Advanced Theming:** Personalize NoteUp with background titlebar images, and fonts! Get ready to make it truly yours. (✅)
