@@ -40,6 +40,9 @@ We know you like things your way, so NoteUp lets you switch it up:
 ![Full NoteUp interface](showcase-assets/noteup_demo.gif)
 
 
+## Updates ⬆️
+
+https://discord.gg/KmdKfcEKWa
 
 
 _**Disclaimer:** All features and plans outlined above are subject to change based on development and user feedback._
