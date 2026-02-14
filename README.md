@@ -12,12 +12,14 @@
 
 ### Features 🪶
 
-- **Lightweight**: Uses barely any ram, while 0% of the CPU with a few tabs, check Task Manager screenshot in the [showcase!](#showcase).
+- **Lightweight**: Uses barely any ram, while 0% of the CPU with a few tabs    
 
 - **Completely Free & AI-Free:** No hidden costs, no pay-to-win features, and absolutely no AI messing with your notes. Just a pure, focused text editor.
 
 
-#### (More customization options coming soon!)
+#### Customization options 🎨
+
+Light and Dark mode 🌗
 
 
 
