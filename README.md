@@ -19,7 +19,7 @@
 
 #### Customization options 🎨
 
-Light and Dark mode 🌗
+Light n' Dark mode 🌗
 
 
 
