@@ -38,7 +38,7 @@ Light n' Dark mode 🌗
 -
 ### AND MUCH MORE!!
 
-showcase-assets/noteup2_showcase.gif
+<img width="853" height="537" alt="showcase" src="showcase-assets/noteup2_showcase.gif" />
 _**Disclaimer:** All features and plans outlined above are subject to change based on development and user feedback._
 
 
