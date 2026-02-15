@@ -38,7 +38,7 @@ Light n' Dark mode 🌗
 -
 ### AND MUCH MORE!!
 
-https://github.com/ypcolxz/NoteUp/blob/main/showcase-assets/noteup2_showcase.gif?raw=true
+showcase-assets/noteup2_showcase.gif
 _**Disclaimer:** All features and plans outlined above are subject to change based on development and user feedback._
 
 
