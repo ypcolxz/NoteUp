@@ -35,10 +35,10 @@ Light n' Dark mode 🌗
 ➡️ Custom accent color
 -
 ➡️ Fonts!
-
+-
 ### AND MUCH MORE!!
 
+https://github.com/ypcolxz/NoteUp/blob/main/showcase-assets/noteup2_showcase.gif?raw=true
 _**Disclaimer:** All features and plans outlined above are subject to change based on development and user feedback._
 
-[NoteUp](https://github.com/ypcolxz/NoteUp/blob/main/showcase-assets/noteup2_showcase.gif?raw=true)
 
