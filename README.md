@@ -8,6 +8,10 @@ thanks!
 -yp
 
 ______________
+
+learn more on my Discord: https://discord.gg/KmdKfcEKWa
+
+______________
  
 ## NoteUp 📝
 **NoteUp:** Your free, no fluff alternative to Notepad.
