@@ -1,4 +1,15 @@
-# NoteUp 📝
+# DISCONTINUED! ⚠️
+NoteUp was only a test to see what i can make with WinUi3 and WPF, plus it was horribly optimized and there are much better notepad apps out there!!
+
+The reason i made a full app just for testing, to test the waters! NoteUp will be preserved but never updated unless i find a good reason.
+
+thanks!
+
+-yp
+
+______________
+ 
+## NoteUp 📝
 **NoteUp:** Your free, no fluff alternative to Notepad.
 
 ### Features 🪶
