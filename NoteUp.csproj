@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\NoteUp.ico</ApplicationIcon>
+    <Title>NoteUp</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\NoteUp.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\NoteUp.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ModernWpfUI" Version="0.9.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\NoteUp.ico" />
+  </ItemGroup>
+
+</Project>
